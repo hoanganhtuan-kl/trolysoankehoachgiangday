@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>OPOPng giáo: Hoàng Anh Tuấn - Trường Tiểu học Nà Chì - ĐT: 0839637157</p>
+    <p> Ông giáo: Hoàng Anh Tuấn - Trường Tiểu học Nà Chì - ĐT: 0839637157</p>
 </div>
 """, unsafe_allow_html=True)
 
